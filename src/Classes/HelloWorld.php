@@ -3,5 +3,9 @@
 namespace HelloWold;
 
 class HelloWorld {
-    //put your code here
+
+    public function say() {
+        echo 'this is my first project using packages composer';
+    }
+
 }
