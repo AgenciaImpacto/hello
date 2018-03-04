@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWold;
+namespace Hello\Classes;
 
 class HelloWorld {
 
